@@ -29,3 +29,8 @@ In order to compute the similarity between two strings it is utilized the normal
 The script used to compute the similarity of lists of values is [similarity.py](https://github.com/acislab/HuMaIN_Crowdsourcing_Complexity/blob/master/similarity.py).
 
 All the material in this repository is under the Apache 2.0 License: [read License](https://github.com/acislab/HuMaIN_Crowdsourcing_Complexity/blob/master/LICENSE)
+
+## Acknowledgement
+HuMaIN is funded by a grant from the National Science Foundation's ACI Division of Advanced Cyberinfrastructure (Award Number: 1535086).
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and
+do not necessarily reflect the views of the National Science Foundation.
